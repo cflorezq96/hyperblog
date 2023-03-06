@@ -1,4 +1,5 @@
 body {
+    background: #1e1f24;
     color: #333;
     text-align: center;
     font-family: arial;
@@ -32,4 +33,16 @@ body {
 
 #container h1 {
     font-size: 20px;
+}
+
+#post {
+    background: white;
+    padding: 1em;
+}
+
+#footer {
+    background: #33A;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
